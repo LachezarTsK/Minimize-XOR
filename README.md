@@ -1,7 +1,6 @@
 # Minimize-XOR
 Challenge at LeetCode.com. Tags: Bitwise Operations, Greedy.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The solution for each language is in two versions: with Lambda Expression and without Lambda Expression.
 
